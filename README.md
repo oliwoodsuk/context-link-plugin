@@ -1,6 +1,6 @@
 # Context Link Plugin
 
-Connect Claude to your [Context Link](https://context-link.ai) knowledge base and retrieve context from your connected sources: Notion, Google Drive and any websites. Context Link also has a memory layer where you can save conversation insights, documents and anything else you want to persist directly from an AI interaction.
+Connect Claude to your [Context Link](https://context-link.ai) knowledge base and retrieve just the right context from your connected sources: Notion, Google Drive and any websites. Context Link also has a memory layer where you can save conversation insights, documents and anything else you want to persist directly from an AI interaction.
 
 ## What it does
 
